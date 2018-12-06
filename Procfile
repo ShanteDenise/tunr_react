@@ -1,0 +1,1 @@
+web: gunicorn tunr_react.wsgi --logfile -
